@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **BACKEND DEV**
 
-- 🤝 I’m looking for help with **FRONTEND PROJECTS**
+- 🤝 I’m looking for help with **FULLSTACK PROJECTS**
 
 - 📫 How to reach me **rohithalder4225@gmail.com**
 
