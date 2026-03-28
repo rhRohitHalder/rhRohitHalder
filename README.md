@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm ROHIT HALDER</h1>
-<h3 align="center">Rohit Halder a sophomore pursuing B.Tech in computer science Engineering (Al&ML), with a passion for Problem-solving. competitive programming and Building innovative solutions.Seeking an Opportunity to leverage my skills and project Experience to contribute to cutting edge development. and impactful projects in dynamic inviorment</h3>
+<h3 align="center">Rohit Halder a pre-final year student pursuing B.Tech in computer science Engineering (Al&ML), with a passion for Problem-solving and Building innovative solutions.Seeking an Opportunity to leverage my skills and project Experience to contribute to cutting edge development. and impactful projects in dynamic inviorment</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhrohithalder&label=Profile%20views&color=0e75b6&style=flat" alt="rhrohithalder" /> </p>
 
